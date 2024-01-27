@@ -1,0 +1,459 @@
+.Saylani {
+    width: 260px;
+    height: 70px;
+    position: relative;
+    left: 530px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+h1 {
+    margin-left: 515px;
+    font-family: sans-serif;
+    text-shadow: 1px 1px gray;
+    font-size: 25px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.ul {
+    list-style-type: none;
+    position: relative;
+    left: 510px;
+    display: block;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.button>li {
+    list-style-type: none;
+    position: relative;
+    left: 480px;
+    display: inline;
+}
+
+.submit {
+    border: 1px solid #dcdcdc;
+    cursor: pointer;
+    height: 28px;
+    color: blue;
+    border-radius: 4px;
+}
+
+.submit:hover {
+    color: rgb(20, 228, 20);
+}
+
+.select>select {
+    width: 362px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 300px;
+    margin-top: 10px;
+    display: inline;
+}
+
+.course>select {
+    width: 362px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 680px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 234px;
+}
+
+.main {
+    width: 350px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 300px;
+    margin-top: 10px
+}
+
+.email {
+    display: block;
+    width: 350px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 300px;
+    margin-top: 10px
+}
+
+.CNIC {
+    display: block;
+    width: 350px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 300px;
+    margin-top: 10px
+}
+
+.birth {
+    display: block;
+    width: 350px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 300px;
+    margin-top: 10px
+}
+
+.father {
+    width: 352px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 680px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 311px;
+
+}
+
+.Phone {
+    width: 352px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 680px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 396px;
+
+}
+
+
+.App {
+    width: 352px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 680px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 480px;
+
+}
+
+.gender>select {
+    width: 360px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 680px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 563px;
+
+}
+
+.Address {
+    width: 730px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 300px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 625px;
+
+
+}
+
+.matric>select {
+    width: 740px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 300px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 695px;
+
+}
+
+.Laptop>select {
+    width: 740px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 300px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 763px;
+
+}
+
+.you>input { width: 360px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 490px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 220px;
+   
+
+}
+
+.provide {
+    
+
+    padding-left: 490px;
+    color: blue;
+    position: absolute;
+    top: 180px;
+
+}
+
+.with>p {
+    position: absolute;
+    left: 420px;
+    top: 818px;
+
+
+}
+
+.point>ol {
+    position: absolute;
+    left: 280px;
+    top: 940px;
+
+}
+
+.Do {
+    padding-left: 300px;
+    color: blue;
+    position: absolute;
+    top: 723px;
+
+}
+
+.last {
+    padding-left: 300px;
+    color: blue;
+    position: absolute;
+    top: 656px;
+
+}
+
+.type {
+    padding-left: 300px;
+    color: blue;
+    position: absolute;
+    top: 588px;
+
+}
+
+.Male {
+    padding-left: 680px;
+    color: blue;
+    position: absolute;
+    top: 520px;
+
+
+}
+
+
+.optional {
+    padding-left: 680px;
+    color: blue;
+    position: absolute;
+    top: 435px;
+
+}
+
+
+
+.number {
+    padding-left: 680px;
+    color: blue;
+    position: absolute;
+    top: 350px;
+}
+
+
+.text {
+    padding-left: 680px;
+    color: blue;
+    position: absolute;
+    top: 270px;
+
+}
+
+.city {
+    padding-left: 300px;
+    color: blue;
+    margin-bottom: 0px;
+}
+
+.or {
+    padding-left: 680px;
+    color: blue;
+    position: absolute;
+    top: 190px;
+}
+
+.me {
+    padding-left: 302px;
+    color: blue;
+    position: absolute;
+    top: 789px;
+
+}
+
+.Upload>input {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #dcdcdc;
+    border-radius: 8px;
+    position: absolute;
+    left: 308px;
+    top: 830px;
+
+}
+
+.ho>input {
+    position: absolute;
+    left: 305px;
+    top: 1100px;
+    width: 700px;
+    height: 30px;
+    background-color:blue;
+    color: white;
+    border-radius: 2px;
+    border: 1px solid blue;
+
+}
+.ho>input:hover{
+    cursor: pointer;
+}
+
+.value>input { width: 372px;
+    height: 30px;
+    border: 1px solid blue;
+    border-radius: 2px;
+    outline: none;
+    /* padding-left: 7px; */
+    margin-left: 490px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 265px;
+    background-color: blue;
+    color: white;
+
+
+
+
+
+}
+
+.Roll>input{
+    width: 360px;
+    height: 35px;
+    border: 1px solid rgb(20, 228, 20);
+    border-radius: 2px;
+    outline: none;
+    padding-left: 7px;
+    margin-left: 490px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 220px;
+}
+.Result{
+    padding-left: 490px;
+    color: blue;
+    position: absolute;
+    top: 180px;
+    
+
+}
+.hoe>input{
+    width: 372px;
+    height: 30px;
+    border: 1px solid blue;
+    border-radius: 2px;
+    outline: none;
+    /* padding-left: 7px; */
+    margin-left: 490px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 265px;
+    background-color: blue;
+    color: white;
+
+}
+
+.facebook{
+    width:30px ;
+    height: 30px;
+    position: absolute;
+    top: 85px;
+    left: 300px;
+    border-radius: 20px;
+}
+.instragram{
+    width:30px ;
+    height: 30px;
+    position: absolute;
+    top: 85px;
+    left: 360px;
+    border-radius: 20px;
+
+}
+
+.youtube{
+    width:30px ;
+    height: 30px;
+    position: absolute;
+    top: 85px;
+    left: 420px;
+    border-radius: 20px;
+
+}
